@@ -1,7 +1,7 @@
-👋 Hi, I’m @btechtraders
-👀 I’m interested in Stock Market
-🌱 I’m currently learning Flutter
-💞️ I’m looking to collaborate on Trading
+👋 Hi, I’m @btechtraders\n
+👀 I’m interested in Stock Market\n
+🌱 I’m currently learning Flutter\n
+💞️ I’m looking to collaborate on Trading\n
 📫 btechtraders18@gmail.com
 
 <!---
